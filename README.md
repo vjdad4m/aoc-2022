@@ -9,3 +9,4 @@ My challenge this year is to solve each problem using a [different programming l
 | Day | Language |
 | :-- | :------: |
 | 1.  |   Java   |
+| 2.  |    Go    |
